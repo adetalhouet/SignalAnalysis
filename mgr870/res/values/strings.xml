@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mgr870</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="netInfo">Network Informations</string>
+    <string name="servCell">Serving Cell</string>
+    <string name="recSignal">Received Signal</string>
+    <string name="technology">Technology</string>
+    <string name="mcc">MCC</string>
+    <string name="mnc">MNC</string>
+    <string name="freqBand">Frequency Band</string>
+    <string name="bandWidth">BandWidth</string>
+    <string name="cellId">Cell Identity</string>
+    <string name="phyCellId">Physical Cell ID</string>
+    <string name="tac">LAC</string>
+    <string name="rssi">RSSI</string>
+    <string name="rsrp">RSRP</string>
+    <string name="strength">Strength</string>
+    <string name="power">Power</string>
+    <string name="rsrq">RSRQ</string>
+    <string name="sinr">SNR</string>
+    <string name="quality">Quality</string>
+    <string name="noise">Noise</string>
+    <string name="img">img</string>
+
+</resources>
